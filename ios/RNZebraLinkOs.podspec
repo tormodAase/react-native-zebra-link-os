@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNZebraLinkOs
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/equinor/react-native-zebra-link-os/"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
