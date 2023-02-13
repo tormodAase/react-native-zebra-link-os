@@ -1,3 +1,7 @@
+# note: Please use equinor's repo instead
+
+Repo: https://github.com/equinor/react-native-zebra-link-os 
+
 
 # react-native-zebra-link-os
 Package used for mad-project-please-move
